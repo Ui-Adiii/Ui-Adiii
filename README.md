@@ -46,5 +46,6 @@ Secure authentication (JWT), real-time task management, and progress tracking wi
 
 ## 📫 Connect with Me  
 - 📧 Email: beingaditya198@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/aditya-mallick-](www.linkedin.com/in/aditya-mallick-)  
+- 💼 LinkedIn: [linkedin.com/in/aditya-mallick-](https://www.linkedin.com/in/aditya-mallick-/)  
+
 
