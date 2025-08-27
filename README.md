@@ -19,6 +19,10 @@ Currently focusing on **Full-Stack Web Development** with React, Next.js, Node.j
 
 ## 📌 Featured Projects  
 
+### 🏢 [Employee Management System (EMS)](https://github.com/Ui-Adiii/EMS)  
+A full-stack web app for managing employees and tasks. Features include **secure authentication (JWT, bcrypt)**, role-based access (Admin & Employee), task assignment & tracking, and real-time dashboards with a modern Tailwind UI.  
+**Tech:** Next.js, React, Redux Toolkit, Node.js, Express.js, MongoDB, Tailwind CSS
+
 ### 🛒 [Full-Stack E-Commerce Platform](https://github.com/Ui-Adiii/Ecommerce)  
 Built responsive UI with **React.js + Tailwind CSS**, integrated real-time APIs, and managed products with **MERN stack**.  
 **Tech:** MongoDB, Express.js, React.js, Node.js, Tailwind CSS  
@@ -47,6 +51,7 @@ Secure authentication (JWT), real-time task management, and progress tracking wi
 ## 📫 Connect with Me  
 - 📧 Email: beingaditya198@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/aditya-mallick-](https://www.linkedin.com/in/aditya-mallick-)  
+
 
 
 
