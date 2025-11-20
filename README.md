@@ -8,8 +8,8 @@ Currently focusing on **Full-Stack Web Development** with React, Next.js, Node.j
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** Java, JavaScript, TypeScript, C, HTML, CSS  
-- **Frontend:** React.js, Next.js, Tailwind CSS, Redux Toolkit, Material UI, Bootstrap, ShadCN UI, Framer Motion  
+- **Languages:** Java,  C
+- **Frontend:**  HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Redux Toolkit, Material UI, Bootstrap, ShadCN UI, Framer Motion  
 - **Backend:** Node.js, Express.js, RESTful APIs  
 - **Databases:** MongoDB, MySQL  
 - **Tools:** Git, GitHub, VS Code, Postman, NPM, Eclipse, Dev-C++  
@@ -51,6 +51,7 @@ Secure authentication (JWT), real-time task management, and progress tracking wi
 ## 📫 Connect with Me  
 - 📧 Email: beingaditya198@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/aditya-mallick-](https://www.linkedin.com/in/aditya-mallick-)  
+
 
 
 
