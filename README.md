@@ -42,15 +42,11 @@ Secure authentication (JWT), real-time task management, and progress tracking wi
 
 ---
 
-## 📊 GitHub Stats  
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ui-Adiii&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ui-Adiii&layout=compact&theme=tokyonight)  
-
----
 
 ## 📫 Connect with Me  
 - 📧 Email: beingaditya198@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/aditya-mallick-](https://www.linkedin.com/in/aditya-mallick-)  
+
 
 
 
