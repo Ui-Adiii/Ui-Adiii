@@ -38,7 +38,7 @@ Secure authentication (JWT), real-time task management, and progress tracking wi
 ---
 
 ## 🌐 Portfolio  
-👉 [Visit My Portfolio](https://portfolio-aditya-mallick.vercel.app)  
+👉 [Visit My Portfolio](https://aditya-mallick.vercel.app)  
 
 ---
 
