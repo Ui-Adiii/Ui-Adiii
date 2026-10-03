@@ -96,7 +96,7 @@ I enjoy turning ideas into practical products through clean,
 efficient, and maintainable code.
 </p>
 
-<!-- <h2 align="center">Proof at a glance</h2>
+<h2 align="center">Proof at a glance</h2>
 
 <table width="100%">
 <tr>
@@ -122,7 +122,7 @@ efficient, and maintainable code.
 </td>
 
 </tr>
-</table> -->
+</table>
 
 <br />
 
